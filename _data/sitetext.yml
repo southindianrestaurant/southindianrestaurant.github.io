@@ -1,0 +1,14 @@
+en: &DEFAULT_EN
+  header:
+    buttonlink: "#services"
+    reviewlink: "http://search.google.com/local/writereview?placeid=ChIJrbLDxHrhK5ARJ1ja7AVdCh8"
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://www.facebook.com/South-Indian-Restaurant-686619538432600/
+        icon: "fab fa-facebook-f"
+      - url: https://www.instagram.com/southindianrestaurant_manta/
+        icon: "fab fa-instagram"
+en-US:
+  <<: *DEFAULT_EN
