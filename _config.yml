@@ -1,0 +1,13 @@
+theme: jekyll-agency
+
+url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+
+title      : South Indian Restaurant
+email      : southindianrestaurent@gmail.com
+description: "The utility website for South Indian Restaurant located at Manta, Ecuador."
+author     : dev@southindianrestaurant
+logo:     #optional, defaults to site title
+  path: assets\img\clients\logo.png
+
+locale: "en-US"
