@@ -9,5 +9,4 @@ description: "The utility website for South Indian Restaurant located at Manta, 
 author     : dev@southindianrestaurant
 logo:     #optional, defaults to site title
   path: assets\img\clients\logo.png
-
 locale: "en-US"
